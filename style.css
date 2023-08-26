@@ -1,0 +1,31 @@
+
+.position{
+    display: grid;
+    place-items: center;
+   
+}
+
+.colorred{
+color:rgba(255, 8, 0, 0.815);    
+}
+
+.colorpurple{
+color:blueviolet;    
+}
+.coloryellow{
+    color:darkgoldenrod;
+}
+
+    
+.position2{
+    text-align: center;
+}
+
+
+
+.product img{
+ width: 300px;
+ height: 400px;
+ margin-top: 20px;
+ 
+}
